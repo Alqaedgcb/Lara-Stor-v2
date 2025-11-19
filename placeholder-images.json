@@ -1,0 +1,382 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-slide-1",
+      "description": "Spring fashion collection",
+      "imageUrl": "https://images.unsplash.com/photo-1590172473489-f10d248b9193?q=80&w=1974&auto=format&fit=crop",
+      "imageHint": "spring fashion"
+    },
+    {
+      "id": "hero-slide-2",
+      "description": "LARA luxury jewelry",
+      "imageUrl": "https://images.unsplash.com/photo-1610214354095-684029c14300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsdXh1cnklMjBqZXdlbHJ5fGVufDB8fHx8MTc2MjgwMjAyMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury jewelry"
+    },
+    {
+      "id": "hero-slide-3",
+      "description": "Luxury perfume bottle on a reflective surface",
+      "imageUrl": "https://images.unsplash.com/photo-1585399127818-84351b660995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjBwZXJmdW1lfGVufDB8fHx8MTc2MzU4OTM0Nnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury perfume"
+    },
+    {
+      "id": "hero-slide-4",
+      "description": "Close-up of a luxury watch",
+      "imageUrl": "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbGVnYW50JTIwd2F0Y2h8ZW58MHx8fHwxNzYzMTg5MzgyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury watch"
+    },
+    {
+      "id": "hero-slide-5",
+      "description": "Elegant luxury jewelry piece",
+      "imageUrl": "https://i.ibb.co/sdbVQ9RH/fdf4f77fff0eac720379f19bc1f661d5.jpg",
+      "imageHint": "luxury jewelry piece"
+    },
+    {
+      "id": "offer-1",
+      "description": "Diamond jewelry set offer",
+      "imageUrl": "https://images.unsplash.com/photo-1677045419454-e8b201856472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkaWFtb25kJTIwamV3ZWxyeXxlbnwwfHx8fDE3NjI4NTgzNzh8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "diamond jewelry"
+    },
+    {
+      "id": "offer-2",
+      "description": "Gold luxury watch offer",
+      "imageUrl": "https://images.unsplash.com/photo-1590736969955-71cc94801759?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnb2xkJTIwd2F0Y2h8ZW58MHx8fHwxNzYyNzkzNTk0fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold watch"
+    },
+    {
+      "id": "category-1",
+      "description": "Evening dresses category",
+      "imageUrl": "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxldmVuaW5nJTIwZHJlc3N8ZW58MHx8fHwxNzYyODE5NDAwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "evening dress"
+    },
+    {
+      "id": "category-2",
+      "description": "Men's clothing category",
+      "imageUrl": "https://images.unsplash.com/photo-1667284152861-36e03571486a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtZW5zd2VhcnxlbnwwfHx8fDE3NjI4NjczMDZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "menswear"
+    },
+    {
+      "id": "category-3",
+      "description": "Shoes category",
+      "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2hvZXMlMjBmYXNoaW9ufGVufDB8fHx8MTc2Mjc4Mzg0M3ww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "shoes fashion"
+    },
+    {
+      "id": "category-4",
+      "description": "Handbags category",
+      "imageUrl": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoYW5kYmFnc3xlbnwwfHx8fDE3NjI4NjczMDZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "handbags"
+    },
+    {
+      "id": "category-clothing-fashion",
+      "description": "General fashion and clothing",
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "fashion clothing"
+    },
+    {
+      "id": "fashion-mens",
+      "description": "Stylish men's fashion display",
+      "imageUrl": "https://images.unsplash.com/photo-1617137968427-85924c800a22?q=80&w=1964&auto=format&fit=crop",
+      "imageHint": "mens fashion"
+    },
+    {
+      "id": "fashion-kids",
+      "description": "Cute and stylish kids' fashion",
+      "imageUrl": "https://images.unsplash.com/photo-1604908176997-15d5b692f865?q=80&w=1974&auto=format&fit=crop",
+      "imageHint": "kids fashion"
+    },
+    {
+      "id": "featured-product-1",
+      "description": "Diamond ring",
+      "imageUrl": "https://images.unsplash.com/photo-1589674668791-4889d2bba4c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkaWFtb25kJTIwcmluZ3xlbnwwfHx8fDE3NjI3OTM1OTR8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "diamond ring"
+    },
+    {
+      "id": "featured-product-2",
+      "description": "Luxury gold watch",
+      "imageUrl": "https://images.unsplash.com/photo-1600003014637-ff82a275e191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsdXh1cnklMjB3YXRjaHxlbnwwfHx8fDE3NjI3NzQ4NzZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury watch"
+    },
+    {
+      "id": "featured-product-3",
+      "description": "Rare perfume bottle",
+      "imageUrl": "https://images.unsplash.com/photo-1608721279136-cd41b752fa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJmdW1lJTIwYm90dGxlfGVufDB8fHx8MTc2Mjc4NDQyNHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "perfume bottle"
+    },
+    {
+      "id": "featured-product-4",
+      "description": "Gold and diamond bracelet",
+      "imageUrl": "https://images.unsplash.com/photo-1689397136362-dce64e557fcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnb2xkJTIwYnJhY2VsZXR8ZW58MHx8fHwxNzYyNzY5NDMxfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold bracelet"
+    },
+    {
+      "id": "new-arrival-1",
+      "description": "Pink high heels",
+      "imageUrl": "https://images.unsplash.com/photo-1635748243680-a945e029bfa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwaW5rJTIwaGVlbHN8ZW58MHx8fHwxNzYyODY3MzA2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "pink heels"
+    },
+    {
+      "id": "new-arrival-2",
+      "description": "Beige linen blazer",
+      "imageUrl": "https://images.unsplash.com/photo-1748500192026-fee2ba823904?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiZWlnZSUyMGJsYXplcnxlbnwwfHx8fDE3NjI4NDQ1OTJ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "beige blazer"
+    },
+    {
+      "id": "new-arrival-3",
+      "description": "Floral midi dress",
+      "imageUrl": "https://images.unsplash.com/photo-1591774921149-70c37a3fe407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbG9yYWwlMjBkcmVzc3xlbnwwfHx8fDE3NjI4MjE3Njh8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "floral dress"
+    },
+    {
+      "id": "new-arrival-4",
+      "description": "Straight-fit denim jeans",
+      "imageUrl": "https://images.unsplash.com/photo-1560243563-062bfc001d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZW5pbSUyMGplYW5zfGVufDB8fHx8MTc2Mjg1OTE3NHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "denim jeans"
+    },
+    {
+      "id": "watch-1",
+      "description": "Modern smartwatch",
+      "imageUrl": "https://images.unsplash.com/photo-1660844817855-3ecc7ef21f12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydHdhdGNofGVufDB8fHx8MTc2Mjc4MzcyN3ww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartwatch"
+    },
+    {
+      "id": "watch-2",
+      "description": "Rose gold watch",
+      "imageUrl": "https://images.unsplash.com/photo-1762071775668-68a2dfda0318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cm9zZS1nb2xkJTIwd2F0Y2h8ZW58MHx8fHwxNzYyODY3MzA2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "rose-gold watch"
+    },
+    {
+      "id": "watch-3",
+      "description": "Classic watch with steel band",
+      "imageUrl": "https://images.unsplash.com/photo-1726760239464-711b7de51384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjbGFzc2ljJTIwd2F0Y2h8ZW58MHx8fHwxNzYyODAyMDIwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "classic watch"
+    },
+    {
+      "id": "watch-4",
+      "description": "Watch with brown leather strap",
+      "imageUrl": "https://images.unsplash.com/photo-1598463370698-bba402980d47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGVhdGhlciUyMHdhdGNofGVufDB8fHx8MTc2Mjg2NzMwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather watch"
+    },
+    {
+      "id": "bestseller-1",
+      "description": "Classic men's watch",
+      "imageUrl": "https://images.unsplash.com/photo-1702865053958-71ec751c4118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtZW5zJTIwd2F0Y2h8ZW58MHx8fHwxNzYyODY3MzA2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "mens watch"
+    },
+    {
+      "id": "bestseller-2",
+      "description": "Luxury women's perfume",
+      "imageUrl": "https://images.unsplash.com/photo-1609388930423-bd676569ba5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21lbnMlMjBwZXJmdW1lfGVufDB8fHx8MTc2MjgwMjAyMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "womens perfume"
+    },
+    {
+      "id": "bestseller-3",
+      "description": "Luxury leather handbag",
+      "imageUrl": "https://images.unsplash.com/photo-1598099947145-e85739e7ca28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsZWF0aGVyJTIwaGFuZGJhZ3xlbnwwfHx8fDE3NjI4MjQxMjB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather handbag"
+    },
+    {
+      "id": "bestseller-4",
+      "description": "Classic luxury sunglasses",
+      "imageUrl": "https://images.unsplash.com/photo-1627107263871-53bbe3324079?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjbGFzc2ljJTIwc3VuZ2xhc3Nlc3xlbnwwfHx8fDE3NjI3OTc0MjJ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "classic sunglasses"
+    },
+    {
+      "id": "fashion-bestseller-1",
+      "description": "Beige leather handbag",
+      "imageUrl": "https://images.unsplash.com/photo-1710170622433-de651c37a291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiZWlnZSUyMGhhbmRiYWd8ZW58MHx8fHwxNzYyODY3MzA2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "beige handbag"
+    },
+    {
+      "id": "fashion-bestseller-2",
+      "description": "Black evening dress",
+      "imageUrl": "https://images.unsplash.com/photo-1624968732046-64d35702ed2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibGFjayUyMGRyZXNzfGVufDB8fHx8MTc2Mjg1MTk1OXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "black dress"
+    },
+    {
+      "id": "fashion-bestseller-3",
+      "description": "White sneakers for men",
+      "imageUrl": "https://images.unsplash.com/photo-1722489292294-426912777649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aGl0ZSUyMHNuZWFrZXJzfGVufDB8fHx8MTc2MjgzNjE3MHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "white sneakers"
+    },
+    {
+      "id": "fashion-bestseller-4",
+      "description": "Classic black sunglasses",
+      "imageUrl": "https://images.unsplash.com/photo-1732139637065-1088495050db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxibGFjayUyMHN1bmdsYXNzZXN8ZW58MHx8fHwxNzYyODAzMDIwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "black sunglasses"
+    },
+    {
+      "id": "mega-menu-clothing-1",
+      "description": "Elegant evening dresses",
+      "imageUrl": "https://images.unsplash.com/photo-1761574028720-8872dc5fe412?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxldmVuaW5nJTIwZHJlc3Nlc3xlbnwwfHx8fDE3NjI4MDIwMjB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "evening dresses"
+    },
+    {
+      "id": "mega-menu-clothing-2",
+      "description": "Formal wear for events",
+      "imageUrl": "https://images.unsplash.com/photo-1555684093-44896f3ac27c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmb3JtYWwlMjB3ZWFyfGVufDB8fHx8MTc2Mjg2NDkxOHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "formal wear"
+    },
+    {
+      "id": "mega-menu-clothing-3",
+      "description": "Comfortable casual wear",
+      "imageUrl": "https://images.unsplash.com/photo-1716004360220-213371f51df1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXN1YWwlMjB3ZWFyfGVufDB8fHx8MTc2Mjg2NzMwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "casual wear"
+    },
+    {
+      "id": "mega-menu-clothing-4",
+      "description": "Sportswear and activewear",
+      "imageUrl": "https://images.unsplash.com/photo-1595909315417-2edd382a56dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhY3RpdmV3ZWFyfGVufDB8fHx8MTc2Mjg2NzMwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "activewear"
+    },
+    {
+      "id": "mega-menu-shoes-1",
+      "description": "Stylish high heels",
+      "imageUrl": "https://images.unsplash.com/photo-1627631457335-d1041fd0cb8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoaWdoJTIwaGVlbHN8ZW58MHx8fHwxNzYyNzY5NzMxfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "high heels"
+    },
+    {
+      "id": "mega-menu-shoes-2",
+      "description": "Modern sneakers",
+      "imageUrl": "https://images.unsplash.com/photo-1565814636199-ae8133055c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbmVha2Vyc3xlbnwwfHx8fDE3NjI4MzU3NTJ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sneakers"
+    },
+    {
+      "id": "mega-menu-shoes-3",
+      "description": "Summer sandals",
+      "imageUrl": "https://images.unsplash.com/photo-1515965230482-0b9b46fbee14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzYW5kYWxzfGVufDB8fHx8MTc2MjgwMjAyMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sandals"
+    },
+    {
+      "id": "mega-menu-shoes-4",
+      "description": "Leather shoes",
+      "imageUrl": "https://images.unsplash.com/photo-1605732440685-d0654d81aa30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsZWF0aGVyJTIwc2hvZXN8ZW58MHx8fHwxNzYyNzg5NTE1fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather shoes"
+    },
+    {
+      "id": "mega-menu-bags-1",
+      "description": "Handbags for women",
+      "imageUrl": "https://images.unsplash.com/photo-1597633125184-9fd7e54f0ff7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoYW5kYmFnc3xlbnwwfHx8fDE3NjI4NjczMDZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "handbags"
+    },
+    {
+      "id": "mega-menu-bags-2",
+      "description": "Stylish backpacks",
+      "imageUrl": "https://images.unsplash.com/photo-1649813616320-9cdf5a2cd1d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYWNrcGFja3N8ZW58MHx8fHwxNzYyODY3MzA2fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "backpacks"
+    },
+    {
+      "id": "mega-menu-bags-3",
+      "description": "Travel bags and luggage",
+      "imageUrl": "https://images.unsplash.com/photo-1522199710521-72d69614c702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjBsdWdnYWdlfGVufDB8fHx8MTc2Mjg1NDE0NXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel luggage"
+    },
+    {
+      "id": "mega-menu-bags-4",
+      "description": "Wallets and purses",
+      "imageUrl": "https://images.unsplash.com/photo-1709809681323-c1567869e7b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3YWxsZXRzfGVufDB8fHx8MTc2Mjg2NzMwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "wallets"
+    },
+    {
+      "id": "mega-menu-accessories-1",
+      "description": "Fine jewelry",
+      "imageUrl": "https://images.unsplash.com/photo-1635607135813-660cad9deb3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaW5lJTIwamV3ZWxyeXxlbnwwfHx8fDE3NjI4NjczMDZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "fine jewelry"
+    },
+    {
+      "id": "mega-menu-accessories-2",
+      "description": "Luxury watches",
+      "imageUrl": "https://images.unsplash.com/photo-1607776905497-b4f788205f6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bHV4dXJ5JTIwd2F0Y2hlc3xlbnwwfHx8fDE3NjI4MjY0MDd8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury watches"
+    },
+    {
+      "id": "mega-menu-accessories-3",
+      "description": "Designer sunglasses",
+      "imageUrl": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdW5nbGFzc2VzfGVufDB8fHx8MTc2MjgzMTEzMXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunglasses"
+    },
+    {
+      "id": "mega-menu-accessories-4",
+      "description": "Leather belts",
+      "imageUrl": "https://images.unsplash.com/photo-1664286021284-e921c76ac1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGVhdGhlciUyMGJlbHRzfGVufDB8fHx8MTc2Mjg2NzMwNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather belts"
+    },
+    {
+      "id": "hero-spring-fashion",
+      "description": "A model showcasing the exclusive spring collection.",
+      "imageUrl": "https://images.unsplash.com/photo-1557776198-8b17010cbbb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcHJpbmclMjBmYXNoaW9ufGVufDB8fHx8MTc2MzEyMDk4M3ww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "spring fashion"
+    },
+    {
+      "id": "hero-jewelry",
+      "description": "A display of luxurious LARA jewelry.",
+      "imageUrl": "https://images.unsplash.com/photo-1727784892059-c85b4d9f763c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjBqZXdlbHJ5fGVufDB8fHx8MTc2MzE5MjcyMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury jewelry"
+    },
+    {
+      "id": "lara-jewelry-set",
+      "description": "LARA jewelry set",
+      "imageUrl": "https://i.ibb.co/hRpxv8dt/Set.jpg",
+      "imageHint": "jewelry set"
+    },
+    {
+      "id": "hero-watches",
+      "description": "A collection of elegant men's and women's watches.",
+      "imageUrl": "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbGVnYW50JTIwd2F0Y2h8ZW58MHx8fHwxNzYzMTg5MzgyfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "elegant watch"
+    },
+    {
+      "id": "product-dress",
+      "description": "Luxury black evening dress",
+      "imageUrl": "https://images.unsplash.com/photo-1595444385168-3c3284b3ee42?q=80&w=1974&auto=format&fit=crop",
+      "imageHint": "black dress"
+    },
+    {
+      "id": "product-watch",
+      "description": "LARA gold watch",
+      "imageUrl": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=2080&auto=format&fit=crop",
+      "imageHint": "gold watch"
+    },
+    {
+      "id": "product-bag",
+      "description": "Leather handbag",
+      "imageUrl": "https://images.unsplash.com/photo-1566150905458-1bf1b194fdd5?q=80&w=2072&auto=format&fit=crop",
+      "imageHint": "leather handbag"
+    },
+    {
+      "id": "product-perfume",
+      "description": "LARA rare perfume",
+      "imageUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=1904&auto=format&fit=crop",
+      "imageHint": "perfume bottle"
+    },
+    {
+      "id": "mens-winter-jacket",
+      "description": "Men's high-quality winter jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1603561577964-e0e6c5357948?q=80&w=1974&auto=format&fit=crop",
+      "imageHint": "winter jacket"
+    },
+    {
+      "id": "product-sneaker",
+      "description": "Elegant unisex sneaker",
+      "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=1964&auto=format&fit=crop",
+      "imageHint": "elegant sneaker"
+    },
+    {
+      "id": "womens-bag-1",
+      "description": "Stylish women's handbag",
+      "imageUrl": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoYW5kYmFnc3xlbnwwfHx8fDE3NjI4NjczMDZ8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "handbag"
+    },
+    {
+      "id": "hero-vintage-dress",
+      "description": "Woman in a vintage gingham dress",
+      "imageUrl": "https://i.ibb.co/3cYs2f0/woman-in-gingham-dress.jpg",
+      "imageHint": "vintage fashion"
+    },
+    {
+      "id": "fashion-womens",
+      "description": "Woman in animated dress",
+      "imageUrl": "https://i.ibb.co/Xz4R3xV/ezgif-7-ad4d075841.gif",
+      "imageHint": "animated dress"
+    }
+  ]
+}
